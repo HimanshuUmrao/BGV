@@ -2539,11 +2539,14 @@ ul.footer-nav-menu li:last-child:after{
     Page-Title-Row
 ------------------------*/
 .ttm-page-title-row { 
-    background: url(../images/pagetitle-bg.jpg);
+    
     width: 100%;
     background-size: cover;
     background-position: center;
     z-index: 1;
+}
+.marrine-shipping {
+background: url(../images/marrine-shipping-b.jpg);
 }
 .ttm-page-title-row.ttm-bg.ttm-bgimage-yes >.ttm-bg-layer{
     opacity: .79;
