@@ -2563,6 +2563,9 @@ ul.footer-nav-menu li:last-child:after{
 .about-us {
    background: url(../images/about-us.jpg); 
 }
+.contact {
+   background: url(../images/contact.jpg);  
+}
 .ttm-page-title-row.ttm-bg.ttm-bgimage-yes >.ttm-bg-layer{
     opacity: .79;
 }
