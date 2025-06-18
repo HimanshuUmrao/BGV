@@ -2546,7 +2546,19 @@ ul.footer-nav-menu li:last-child:after{
     z-index: 1;
 }
 .marrine-shipping {
-background: url(../images/marrine-shipping-b.jpg);
+    background: url(../images/marrine-shipping-b.jpg);
+}
+.fishing-aquaculture {
+    background: url(../images/fishing-and-aquaculture.jpg);
+}
+.industrial-and-safety {
+    background: url(../images/industrial-and-safety.jpg);
+}
+.agriculture-and-horticulture {
+    background: url(../images/agriculture-and-horticulture.jpg);
+}
+.commercial-retail {
+    background: url(../images/commercial-retail.jpg);
 }
 .ttm-page-title-row.ttm-bg.ttm-bgimage-yes >.ttm-bg-layer{
     opacity: .79;
