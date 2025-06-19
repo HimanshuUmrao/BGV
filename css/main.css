@@ -2566,6 +2566,9 @@ ul.footer-nav-menu li:last-child:after{
 .contact {
    background: url(../images/contact.jpg);  
 }
+.service {
+   background: url(../images/service-b.jpg);  
+}
 .ttm-page-title-row.ttm-bg.ttm-bgimage-yes >.ttm-bg-layer{
     opacity: .79;
 }
