@@ -3052,3 +3052,9 @@ section.error-404 .page-content p { font-size: 18px; margin-bottom: 30px; }
     margin-bottom: 5rem;
 }
 
+.table .thead-dark th {
+    color: #fff;
+    background-color: #212529;
+    border-color: #32383e;
+}
+
