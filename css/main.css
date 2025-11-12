@@ -3058,3 +3058,18 @@ section.error-404 .page-content p { font-size: 18px; margin-bottom: 30px; }
     border-color: #32383e;
 }
 
+.natural-fiber {
+    background: url(/images/natural-fiber.jpg);
+}
+
+.featured-content-image {
+    width: 100%;
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.featured-content-image img {
+    width: 100%;
+    position: relative;
+}
+
