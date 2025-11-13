@@ -117,7 +117,7 @@
 	.header_extra , .widget_info{ display: none !important; visibility: hidden; }
 
 	/* logo */
-	.site-branding { padding: 25px 0; }
+	.site-branding {padding: 25px 0;width: 58%;}
 
 	.ttm-header-style-01 #site-header-menu{ ackground-color: transparent; }
 
