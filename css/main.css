@@ -3076,3 +3076,44 @@ section.error-404 .page-content p { font-size: 18px; margin-bottom: 30px; }
     position: relative;
 }
 
+#accordionExample {
+    margin: 1rem 0;
+}
+
+.accordion-item {
+    color: var(--bs-accordion-color);
+    background-color: var(--bs-accordion-bg);
+    border: var(--bs-accordion-border-width) solid var(--bs-accordion-border-color);
+    margin-bottom: 2rem;
+}
+
+.accordion-item:first-of-type {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.accordion-item:first-of-type>.accordion-header .accordion-button {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #363636;
+    background-color: transparent;
+    box-shadow: transparent;
+}
+
+.accordion-item:not(:first-of-type) {
+    border-top: 1px solid #dee2e6;
+}
+
+.accordion-body {
+    padding: var(--bs-accordion-body-padding-y) var(--bs-accordion-body-padding-x);
+    font-size: 14px;
+}
+
+.accordion-button {
+    font-size: 16px;
+    font-weight: 600;
+}
+
